@@ -1,0 +1,23 @@
+Home Inventory Privacy Policy
+
+This Privacy Policy describes the privacy practices of faty8t regarding the Home Inventory app ("App") and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to the App or this privacy policy include and relate to the Home Inventory app.
+
+Information Collection and Usage
+
+The App does not collect any personal information from its users. The app stores a binary file on the user's device to facilitate its functionality, but this binary file is not collected by the developer, faty8t.
+
+No Data Sharing
+
+Under no circumstances does the App share any user data with third parties. The data stored locally on the user's device is solely for the purpose of enabling the functionality of the App and is not transmitted or shared with any external entities.
+
+Changes to This Privacy Policy
+
+faty8t may update this Privacy Policy from time to time. Any changes made to the Privacy Policy will be communicated through the App and, if significant, by posting a notice within the App. Users are advised to periodically visit this page for any changes to the Privacy Policy.
+
+Contact Information
+
+If you have any questions or concerns about this Privacy Policy, please contact faty8t at:
+
+Email: faty8t@gmail.com
+
+This policy is effective as of 2024-02-15.
