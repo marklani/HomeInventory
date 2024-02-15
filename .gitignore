@@ -1,4 +1,6 @@
 bin/
 obj/
 .vs/
+/.apk
+com.companyname.homeinventory.apk
 HomeInventory.Android.csproj.user
